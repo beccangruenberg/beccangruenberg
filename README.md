@@ -1,4 +1,6 @@
 ## Beccan Gruenberg
-#<a href="https://github.beccan.gruenbergs.net">github.beccan.gruenbergs.net</a><br>
-#<a href="https://www.beccan.gruenbergs.net">beccan.gruenbergs.net</a><br>
-#<a href="https://www.columbia.edu/~bg2782/">columbia.edu/~bg2782/</a><br>
+<body>
+<strong><a href="https://github.beccan.gruenbergs.net">Github Site</a><br>
+<a href="https://www.beccan.gruenbergs.net">Personal Site</a><br>
+<a href="https://www.columbia.edu/~bg2782/">Columbia Site</a><br></strong>
+</body>
